@@ -20,5 +20,3 @@ fetch(URL)
     .catch(error => {
         console.error('Erro ao obter os dados:', error);
     });
-
-
