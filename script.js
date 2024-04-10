@@ -125,7 +125,7 @@ function checkout() {
     localStorage.removeItem('cart');
 
     // Exibir mensagem de compra encerrada
-    alert('Compra encerrada. Obrigado e volte sempre!');
+    alert('Parabéns! compra finalizada com sucesso! Obrigado e volte sempre!');
 
     // Redirecionar para a página inicial
     window.location.href = 'index.html';
